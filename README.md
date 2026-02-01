@@ -108,54 +108,6 @@ Here are some of my beginner projects:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="mysql" /></a>
 </p>
 
-## Projects
-Here are some of my beginner projects:
-
-- **[Portfolio](https://github.com/MaMohm/Portfolio)**  
-  Professional portfolio showcasing my learning journey, skills, and certifications. Features responsive design, animations, and SEO.  
-  **Tech:** HTML5, CSS3, JavaScript.  
-  **Live Demo:** [https://mamohm.github.io/Portfolio/](https://mamohm.github.io/Portfolio/)
-
-<grok-card data-id="7a103c" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
- (Example screenshot)
-
-- **[Library Frontend](https://github.com/MaMohm/library)**  
-  A home library manager app for organizing books. (Assuming based on your link; update if repo name different).  
-  **Tech:** HTML (from your pinned).  
-  **Live Demo:** [https://mamohm.github.io/library/#/books](https://mamohm.github.io/library/#/books)
-
-<grok-card data-id="739c8f" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
- (Example screenshot)
-
-- **[Weather App](https://github.com/MaMohm/weather-app)**  
-  Premium modern weather application with real-time data, city dashboard, and dynamic visualizations. Privacy-focused with secure backend.  
-  **Tech:** React.js, Node.js, Express, TypeScript.  
-  **Live Demo:** [https://mamohm.github.io/weather-app/](https://mamohm.github.io/weather-app/)
-
-<grok-card data-id="074a31" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
- (Example screenshot)
-
-- **[To Do List](https://github.com/MaMohm/To_Do_List)**  
-  React Native To-Do app for managing tasks: add, edit, delete, and filter (All, Active, Done). Responsive UI for web.  
-  **Tech:** React Native, Expo, JavaScript.  
-  **Live Demo:** [https://mamohm.github.io/To_Do_List/](https://mamohm.github.io/To_Do_List/)
-
-<grok-card data-id="d09369" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
- (Example screenshot)
-
-- **[ToDoListReact](https://github.com/MaMohm/ToDoListReact)**  
-  Modern task manager with progress tracking, status (Pending, In Progress, Completed), timestamps, and local storage.  
-  **Tech:** React.js, Tailwind CSS, JavaScript.  
-  **Live Demo:** [https://mamohm.github.io/ToDoListReact/](https://mamohm.github.io/ToDoListReact/)
-
-<grok-card data-id="e78e1e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
- (Example screenshot)
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaMohm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
