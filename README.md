@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Marwan Mohammad</h1>
+<h1 align="center">Hi 👋, I'm Marwan.M </h1>
 <h3 align="center">A beginner web developer in training, passionate about building interactive apps with HTML, CSS, JavaScript, and more!</h3>
 
 <p align="center">
