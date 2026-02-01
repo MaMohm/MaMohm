@@ -10,7 +10,7 @@
 - 🌱 I'm a beginner learning web development: HTML, CSS, SCSS, JavaScript, React, PHP, Node.js, Figma, WordPress, MySQL.
 - 👨‍💻 Building simple projects to practice frontend and backend skills.
 - 🔭 Currently working on improving my portfolio and task management apps.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/marwan-mohammad-6a0539165" target="_blank">
+- 📫 How to reach me:   <p> <a href="https://www.linkedin.com/in/marwan-mohammad-6a0539165" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 - ⚡ Fun fact: I love creating responsive designs that work on all devices!
