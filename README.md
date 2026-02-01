@@ -82,12 +82,6 @@ Here are some of my beginner projects:
   <img src="https://github-readme-stats.vercel.app/api?username=MaMohm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaMohm&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
-
-## Connect with Me
-<p align="left">
-  <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 - ⚡ Fun fact: I love creating responsive designs that work on all devices!
 
 ## Skills
@@ -103,7 +97,7 @@ Here are some of my beginner projects:
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="wordpress" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="mysql" /></a>
 </p>
->
+
 
 ## Connect with Me
 <p align="left">
