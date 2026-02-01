@@ -37,7 +37,8 @@ Here are some of my beginner projects:
 
 <grok-card data-id="7a103c" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
- (Example screenshot)
+ <img width="1231" height="850" alt="Capture d&#39;écran 2026-02-01 054615" src="https://github.com/user-attachments/assets/96dc639e-19fb-450b-ac7c-c45e50b493c8" />
+
 
 - **[Library Frontend](https://github.com/MaMohm/library)**  
   A home library manager app for organizing books. (Assuming based on your link; update if repo name different).  
@@ -46,7 +47,8 @@ Here are some of my beginner projects:
 
 <grok-card data-id="739c8f" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
- (Example screenshot)
+<img width="1876" height="857" alt="Capture d&#39;écran 2026-02-01 054704" src="https://github.com/user-attachments/assets/5afcb9ba-50e0-43fb-8d4b-d68c27f7faef" />
+
 
 - **[Weather App](https://github.com/MaMohm/weather-app)**  
   Premium modern weather application with real-time data, city dashboard, and dynamic visualizations. Privacy-focused with secure backend.  
@@ -55,7 +57,7 @@ Here are some of my beginner projects:
 
 <grok-card data-id="074a31" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
- (Example screenshot)
+<img width="1155" height="852" alt="Capture d&#39;écran 2026-01-25 194725" src="https://github.com/user-attachments/assets/d349a014-dbcf-4a6c-87b0-75674b464e55" />
 
 - **[To Do List](https://github.com/MaMohm/To_Do_List)**  
   React Native To-Do app for managing tasks: add, edit, delete, and filter (All, Active, Done). Responsive UI for web.  
@@ -64,7 +66,7 @@ Here are some of my beginner projects:
 
 <grok-card data-id="d09369" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
- (Example screenshot)
+<img width="1911" height="800" alt="Capture d&#39;écran 2026-02-01 054922" src="https://github.com/user-attachments/assets/d99e70b8-7a4f-4fa7-be98-e09ad2e7f974" />
 
 - **[ToDoListReact](https://github.com/MaMohm/ToDoListReact)**  
   Modern task manager with progress tracking, status (Pending, In Progress, Completed), timestamps, and local storage.  
@@ -72,8 +74,8 @@ Here are some of my beginner projects:
   **Live Demo:** [https://mamohm.github.io/ToDoListReact/](https://mamohm.github.io/ToDoListReact/)
 
 <grok-card data-id="e78e1e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
+<img width="1904" height="853" alt="Capture d&#39;écran 2026-02-01 055144" src="https://github.com/user-attachments/assets/c94aa795-d09b-4dbc-a93a-f85ca5532721" />
 
- (Example screenshot)
 
 ## GitHub Stats
 <p align="center">
