@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MaMohm.png?size=200" alt="MaMohm Avatar" width="150" height="150" style="border-radius:50%;">
-</p>
-
-<h1 align="center">Hi , I'm Marwan.M</h1>
-<h3 align="center">A beginner web developer in training, passionate about building interactive apps with HTML, CSS, JavaScript, and more!</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mamohm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-## About Me
-- 🌱 I'm a beginner learning web development: HTML, CSS, SCSS, JavaScript, React, PHP, Node.js, Figma, WordPress, MySQL.
-- 👨‍💻 Building simple projects to practice frontend and backend skills.
-- 🔭 Currently working on improving my portfolio and task management apps.
-- 📫 How to reach me: <p align="center">
-  <img src="https://github.com/MaMohm.png?size=200" alt="MaMohm Avatar" width="150" height="150" style="border-radius:50%;">
-</p>
 
 <h1 align="center">Hi 👋, I'm Marwan Mohammad</h1>
 <h3 align="center">A beginner web developer in training, passionate about building interactive apps with HTML, CSS, JavaScript, and more!</h3>
