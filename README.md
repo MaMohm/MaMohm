@@ -113,9 +113,6 @@ Here are some of my beginner projects:
   <img src="https://github-readme-stats.vercel.app/api?username=MaMohm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaMohm&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaMohm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
 
 ## Connect with Me
 <p align="left">
