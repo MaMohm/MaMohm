@@ -80,7 +80,7 @@ Here are some of my beginner projects:
 **[Calculator](https://mamohm.github.io/calculator/)**  
 Modern calculator with scientific functions, calculation history, keyboard support, and responsive design.  
 **Tech:** Angular, Tailwind CSS, TypeScript.  
-**Live Demo:** [https://mamohm.github.io/calculator/](mamohm.github.io/calculator/)
+**Live Demo:** [https://mamohm.github.io/calculator/](https://mamohm.github.io/calculator/)
 
 <img width="452" height="836" alt="Capture d&#39;écran 2026-02-02 123147" src="https://github.com/user-attachments/assets/1ac9bcf2-5579-4ecd-b324-f4deb22e7cd9" />
 
