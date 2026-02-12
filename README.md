@@ -41,7 +41,7 @@ Here are some of my beginner projects:
  <img width="1231" height="850" alt="Capture d&#39;écran 2026-02-01 054615" src="https://github.com/user-attachments/assets/96dc639e-19fb-450b-ac7c-c45e50b493c8" />
 
 
-# Paper Present
+#  **[paper-present](https://github.com/MaMohm/paper-present.git)**
 
 A free classroom-ready attendance web app built to help teachers manage daily attendance efficiently.
 Supports multi-group management, one-click status marking (Present / Late / Absent), printable reports, and PDF export.
