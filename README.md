@@ -41,12 +41,12 @@ Here are some of my beginner projects:
  <img width="1231" height="850" alt="Capture d&#39;écran 2026-02-01 054615" src="https://github.com/user-attachments/assets/96dc639e-19fb-450b-ac7c-c45e50b493c8" />
 
 
-Paper Present
+# Paper Present
 
 A free classroom-ready attendance web app built to help teachers manage daily attendance efficiently.
 Supports multi-group management, one-click status marking (Present / Late / Absent), printable reports, and PDF export.
 Tech: React 19, Vite 7, SCSS, localStorage.
-Live Demo: https://mamohm.github.io/paper-present/
+## Live Demo: https://mamohm.github.io/paper-present/
 
 <img width="1321" height="855" alt="Capture d&#39;écran 2026-02-12 232117" src="https://github.com/user-attachments/assets/8d2c4114-d9c5-4cf5-a3dd-390e8c78c7c3" />
 
