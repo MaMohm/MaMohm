@@ -87,7 +87,7 @@ Tech: React 19, Vite 7, SCSS, localStorage.
 <grok-card data-id="e78e1e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 <img width="1904" height="853" alt="Capture d&#39;écran 2026-02-01 055144" src="https://github.com/user-attachments/assets/c94aa795-d09b-4dbc-a93a-f85ca5532721" />
 
-**[Calculator](https://mamohm.github.io/calculator/)**  
+**[Calculator](https://github.com/MaMohm/calculator)**  
 Modern calculator with scientific functions, calculation history, keyboard support, and responsive design.  
 **Tech:** Angular, Tailwind CSS, TypeScript.  
 **Live Demo:** [https://mamohm.github.io/calculator/](https://mamohm.github.io/calculator/)
