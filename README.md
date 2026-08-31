@@ -61,15 +61,6 @@ Tech: React 19, Vite 7, SCSS, localStorage.
 <img width="1876" height="857" alt="Capture d&#39;écran 2026-02-01 054704" src="https://github.com/user-attachments/assets/5afcb9ba-50e0-43fb-8d4b-d68c27f7faef" />
 
 
-- **[Weather App](https://github.com/MaMohm/weather-app)**  
-  Premium modern weather application with real-time data, city dashboard, and dynamic visualizations. Privacy-focused with secure backend.  
-  **Tech:** React.js, Node.js, Express, TypeScript.  
-  **Live Demo:** [https://mamohm.github.io/weather-app/](https://mamohm.github.io/weather-app/)
-
-<grok-card data-id="074a31" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-<img width="1155" height="852" alt="Capture d&#39;écran 2026-01-25 194725" src="https://github.com/user-attachments/assets/d349a014-dbcf-4a6c-87b0-75674b464e55" />
-
 - **[To Do List](https://github.com/MaMohm/To_Do_List)**  
   React Native To-Do app for managing tasks: add, edit, delete, and filter (All, Active, Done). Responsive UI for web.  
   **Tech:** React Native, Expo, JavaScript.  
